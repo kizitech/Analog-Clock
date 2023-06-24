@@ -8,7 +8,7 @@ This is a simple analog clock built using HTML, CSS, and JavaScript. It displays
 
 ## Link
 
-Live link [here](https://github.com/kizitech/Analog-Clock/)
+Live link [here](https://web-analog-clock.netlify.app)
 
 
 ## Files
